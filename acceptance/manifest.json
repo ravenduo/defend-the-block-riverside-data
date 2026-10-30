@@ -1,0 +1,29 @@
+{
+  "acquisition": {
+    "attribution": "\u00a9 OpenStreetMap contributors; extract by Geofabrik",
+    "completion": "local-validated-import",
+    "downloadURL": "https://download.geofabrik.de/north-america/us/illinois-261027.osm.pbf",
+    "extractorVersion": "riverside-pbf-v1",
+    "license": "ODbL-1.0",
+    "pbfMD5": "a896a70f32ca799100a75d73d7b7e710",
+    "pbfSHA256": "1e88333bc22f588b054c429feeaa2dbfeedc06b5fc0abdc32959a2bd773d4675",
+    "regionID": "riverside-v1",
+    "replicationSequence": "4953",
+    "resolvedURL": "https://download.geofabrik.de/north-america/us/illinois-261027.osm.pbf",
+    "retrievedAt": "2026-10-30T22:23:21.604703Z",
+    "selectionMethod": "intersects-bounds-complete-ways-v1",
+    "sourceBounds": {
+      "east": -87.8108302855326,
+      "north": 41.84079321605919,
+      "south": 41.82280678394081,
+      "west": -87.8349697144674
+    },
+    "sourceDate": "2026-10-27T21:23:59Z"
+  },
+  "regionID": "riverside-v1",
+  "schemaVersion": 1,
+  "snapshotPath": "snapshots/238af93ca486e30d6c9ed498b4d9f4861f6ab4478ea26fd634928c1af6e1b0c9.json",
+  "sourceBytes": 2656534,
+  "sourceDate": "2026-10-27T21:23:59Z",
+  "sourceSHA256": "238af93ca486e30d6c9ed498b4d9f4861f6ab4478ea26fd634928c1af6e1b0c9"
+}
