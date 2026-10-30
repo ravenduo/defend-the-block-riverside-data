@@ -1,0 +1,29 @@
+{
+  "acquisition": {
+    "attribution": "\u00a9 OpenStreetMap contributors; extract by Geofabrik",
+    "completion": "local-validated-import",
+    "downloadURL": "https://download.geofabrik.de/north-america/us/illinois-latest.osm.pbf",
+    "extractorVersion": "illinois-regions-pbf-v1",
+    "license": "ODbL-1.0",
+    "pbfMD5": "6f8cbe39a79ab8cc0e56e462e25a55a6",
+    "pbfSHA256": "cca74898f4bf9be62f1f7b5477cc66bd8129063ad70d497192532554002662bc",
+    "regionID": "chicago-loop-v1",
+    "replicationSequence": "4954",
+    "resolvedURL": "https://download.geofabrik.de/north-america/us/illinois-261028.osm.pbf",
+    "retrievedAt": "2026-10-30T13:41:58.978849Z",
+    "selectionMethod": "intersects-bounds-complete-ways-v1",
+    "sourceBounds": {
+      "east": -87.6157208267108,
+      "north": 41.89089321605919,
+      "south": 41.87290678394081,
+      "west": -87.63987917328919
+    },
+    "sourceDate": "2026-10-28T21:21:02Z"
+  },
+  "regionID": "chicago-loop-v1",
+  "schemaVersion": 1,
+  "snapshotPath": "snapshots/dccccf2d3f84fcd383f4ef92dd2d0d9f8ce0834de1258d55e49220aa22c41583.json",
+  "sourceBytes": 6113125,
+  "sourceDate": "2026-10-28T21:21:02Z",
+  "sourceSHA256": "dccccf2d3f84fcd383f4ef92dd2d0d9f8ce0834de1258d55e49220aa22c41583"
+}

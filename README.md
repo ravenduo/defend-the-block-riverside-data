@@ -16,3 +16,7 @@ The app checks this manifest only on an explicit download or refresh. Source upd
 published by the maintainer after import, source geometry audit, and mission verification.
 Deploy the manifest and new immutable snapshot together. Keep old snapshots available.
 No Overpass API, paid service, worldwide coverage, 3D, or weather is involved.
+<!-- additional-regions -->
+
+Additional supported neighborhood windows:
+- [Chicago Loop](regions/chicago-loop/)
