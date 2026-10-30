@@ -1,0 +1,29 @@
+{
+  "acquisition": {
+    "attribution": "\u00a9 OpenStreetMap contributors; extract by Geofabrik",
+    "completion": "local-validated-import",
+    "downloadURL": "https://download.geofabrik.de/north-america/us/california-latest.osm.pbf",
+    "extractorVersion": "california-regions-pbf-v1",
+    "license": "ODbL-1.0",
+    "pbfMD5": "8685b7cbd40d45f8a6280d836b01cc27",
+    "pbfSHA256": "4a4e2f15a37f3f4f45ed7d1eb79ea6caf381f2d65130c460bb8a8338748600d7",
+    "regionID": "lombard-street-v1",
+    "replicationSequence": "4955",
+    "resolvedURL": "https://download.geofabrik.de/north-america/us/california-261029.osm.pbf",
+    "retrievedAt": "2026-10-30T23:39:36.651123Z",
+    "selectionMethod": "intersects-bounds-complete-ways-v1",
+    "sourceBounds": {
+      "east": -122.41073266431648,
+      "north": 37.808395251241436,
+      "south": 37.79580474875857,
+      "west": -122.42666733568352
+    },
+    "sourceDate": "2026-10-29T21:21:26Z"
+  },
+  "regionID": "lombard-street-v1",
+  "schemaVersion": 1,
+  "snapshotPath": "snapshots/513e2959a7b727283d89836520ccd3d9f7953035c38afd120b945c475910c75a.json",
+  "sourceBytes": 4990841,
+  "sourceDate": "2026-10-29T21:21:26Z",
+  "sourceSHA256": "513e2959a7b727283d89836520ccd3d9f7953035c38afd120b945c475910c75a"
+}

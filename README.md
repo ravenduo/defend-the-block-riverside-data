@@ -21,3 +21,4 @@ No Overpass API, paid service, worldwide coverage, 3D, or weather is involved.
 Additional supported neighborhood windows:
 - [Chicago Loop](regions/chicago-loop/)
 - [Times Square](regions/times-square/)
+- [Lombard Street](regions/lombard-street/)
