@@ -1,0 +1,29 @@
+{
+  "acquisition": {
+    "attribution": "\u00a9 OpenStreetMap contributors; extract by Geofabrik",
+    "completion": "local-validated-import",
+    "downloadURL": "https://download.geofabrik.de/north-america/us/new-york-latest.osm.pbf",
+    "extractorVersion": "new-york-regions-pbf-v1",
+    "license": "ODbL-1.0",
+    "pbfMD5": "249025971906f6f8647f6862ca1889d7",
+    "pbfSHA256": "4151ed5a4d0074a1b7fe57af71d76c4ec2e35b6522028022a598a969c68e129e",
+    "regionID": "times-square-v1",
+    "replicationSequence": "4957",
+    "resolvedURL": "https://download.geofabrik.de/north-america/us/new-york-261029.osm.pbf",
+    "retrievedAt": "2026-10-30T23:19:46.028293Z",
+    "selectionMethod": "intersects-bounds-complete-ways-v1",
+    "sourceBounds": {
+      "east": -73.97362735747554,
+      "north": 40.76699321605919,
+      "south": 40.749006783940814,
+      "west": -73.99737264252447
+    },
+    "sourceDate": "2026-10-29T21:21:26Z"
+  },
+  "regionID": "times-square-v1",
+  "schemaVersion": 1,
+  "snapshotPath": "snapshots/7fb1633a0d5069a85fa32267ba314860ada8915be8eec6eb38b6170d47176279.json",
+  "sourceBytes": 6225652,
+  "sourceDate": "2026-10-29T21:21:26Z",
+  "sourceSHA256": "7fb1633a0d5069a85fa32267ba314860ada8915be8eec6eb38b6170d47176279"
+}
