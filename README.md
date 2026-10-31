@@ -22,3 +22,4 @@ Additional supported neighborhood windows:
 - [Chicago Loop](regions/chicago-loop/)
 - [Times Square](regions/times-square/)
 - [Lombard Street](regions/lombard-street/)
+- [Shibuya Crossing](regions/shibuya-crossing/)

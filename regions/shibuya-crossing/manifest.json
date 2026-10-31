@@ -1,0 +1,29 @@
+{
+  "acquisition": {
+    "attribution": "\u00a9 OpenStreetMap contributors; extract by Geofabrik",
+    "completion": "local-validated-import",
+    "downloadURL": "https://download.geofabrik.de/asia/japan/kanto-latest.osm.pbf",
+    "extractorVersion": "kanto-regions-pbf-v1",
+    "license": "ODbL-1.0",
+    "pbfMD5": "ddd5b2dfba59534c63134eccdd982ba2",
+    "pbfSHA256": "f46ee460d8b6c7bf51f0d896517adfecaa5ddf48fed3643e7a895d71fa15e99f",
+    "regionID": "shibuya-crossing-v1",
+    "replicationSequence": "3472",
+    "resolvedURL": "https://download.geofabrik.de/asia/japan/kanto-261029.osm.pbf",
+    "retrievedAt": "2026-10-31T01:47:52.269858Z",
+    "selectionMethod": "intersects-bounds-complete-ways-v1",
+    "sourceBounds": {
+      "east": 139.7104617676841,
+      "north": 35.66759389445327,
+      "south": 35.651406105546734,
+      "west": 139.6905382323159
+    },
+    "sourceDate": "2026-10-29T21:21:26Z"
+  },
+  "regionID": "shibuya-crossing-v1",
+  "schemaVersion": 1,
+  "snapshotPath": "snapshots/ec8e16a2a53fc9f5a6362bdc9f060f328bdaa0e063381fcdb315437d905d2a25.json",
+  "sourceBytes": 6101638,
+  "sourceDate": "2026-10-29T21:21:26Z",
+  "sourceSHA256": "ec8e16a2a53fc9f5a6362bdc9f060f328bdaa0e063381fcdb315437d905d2a25"
+}
